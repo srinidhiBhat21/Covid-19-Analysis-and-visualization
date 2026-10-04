@@ -74,4 +74,4 @@ The project uses a **state-wise COVID-19 India dataset** containing information 
 - Population
 
 ## 🖼️ Dashboard Preview
--[COVID-19 Dashboard](COVID-19-Dashboard.png)
+-[COVID-19 Dashboard](Dashboard/Covid-19-Dashboard.png)
